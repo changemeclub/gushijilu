@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/readme)
+* [首页](readme)
 * 入门知识
   * [股市](knowledge/)
 * 每日复盘
